@@ -1,0 +1,47 @@
+
+/*cambiar el color del cuerpo*/
+body {
+    background-color: #9bf065;
+}
+/*cambiar el color del titulo*/
+h1{
+	color:blue;
+	text-align:center
+}
+/*cambio color subtitulo*/
+h2{
+	color:red;
+}
+/*color del texto y alineacion justificada*/
+p{
+	color:black;
+	text-align: justify;
+}
+
+/*centrado de la imagen*/
+img{
+   display:block;
+   margin:auto;
+}
+/*modificar links*/
+a:link{
+text-decoration : none;	
+color : #b103fc;
+background-color : #9bf065;
+margin-left : 2%;
+margin-right : 2%;
+}
+a:hover{
+text-decoration : none;	
+color : #b103fc;
+background-color : #9bf065;
+margin-left : 2%;
+margin-right : 2%;
+}
+a:visited{
+text-decoration : none;	
+color : #b103fc;
+background-color : #9bf065;
+margin-left : 2%;
+margin-right : 2%;
+}
